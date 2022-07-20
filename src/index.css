@@ -105,4 +105,7 @@ footer{
     width: 100%;
     padding: .5rem;
   }
+  .bodyyy{
+    min-height: 100vh;
+  }
 }
