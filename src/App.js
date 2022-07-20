@@ -4,11 +4,13 @@ import Footer from "./componenets/Footer";
 
 function App() {
   return (
-    <div className="App">
-      <Header/>
-      <Form/>
+    <>
+      <div className="App">
+        <Header/>
+        <Form/>
+      </div>
       <Footer/>
-    </div>
+    </>
   );
 }
 
