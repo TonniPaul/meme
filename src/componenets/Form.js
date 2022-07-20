@@ -29,7 +29,7 @@ function Form (){
                onClick={getMemeImage}
             />
          </div>
-         {getMemeImage &&<img src={memeImage} className="image" alt="mm"/>}
+         <img src={memeImage} className="image" alt="mm"/>
       </div>
    );
 }
