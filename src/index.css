@@ -13,10 +13,14 @@ body{
   background-color: #fff;
   font-family: 'Inter';
 }
+.App{
+  height: 100vh;
+}
 nav{
   background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
   padding: 1rem 2rem;
-  position: relative;
+  position: fixed;
+  width: 100%;
   top: 0;
   color: #fff;
   margin: 0;
