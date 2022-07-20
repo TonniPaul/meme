@@ -19,8 +19,7 @@ body{
 nav{
   background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
   padding: 1rem 2rem;
-  position: fixed;
-  width: 100%;
+  position: relative;
   top: 0;
   color: #fff;
   margin: 0;
