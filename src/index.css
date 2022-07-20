@@ -75,7 +75,7 @@ input:focus{
   background-color: #250231;
   transition: all 1s ease-in-out;
 }
-footer{
+footer > p{
   background-color: var(--purple);
   color: #fff;
   text-align: center;
@@ -105,8 +105,5 @@ footer{
   .bodycont{
     width: 100%;
     padding: .5rem;
-  }
-  .App{
-    min-height: 100vh;
   }
 }

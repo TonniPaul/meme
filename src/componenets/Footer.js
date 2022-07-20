@@ -1,7 +1,7 @@
 function Footer(){
    return (
       <footer>
-         TonniPaul Inc. &copy; 2022.
+         <p>TonniPaul Inc. &copy; 2022.</p>
       </footer>
    )
 }
