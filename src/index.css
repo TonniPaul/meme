@@ -105,9 +105,7 @@ footer{
     width: 100%;
     padding: .5rem;
   }
-  .bodyyy{
+  .App{
     min-height: 100vh;
-    margin: 0;
-    padding: 0;
   }
 }
