@@ -5,8 +5,9 @@ import Footer from "./componenets/Footer";
 function App() {
   return (
     <div className="bodyyy">
+      <Header/>
       <div className="App">
-        <Header/>
+        
         <Form/>
       </div>
       <Footer/>

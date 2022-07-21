@@ -85,7 +85,12 @@ footer{
   bottom: 0;
   transition: all 0.5s ease-in-out;
 }
-
+@media (min-width: 1440px){
+  .App{
+    width: 60%;
+    margin: auto;
+  }
+}
 @media(max-width:500px) {
   nav{
     padding: 1rem;
