@@ -7,7 +7,6 @@ function App() {
     <div className="bodyyy">
       <Header/>
       <div className="App">
-        
         <Form/>
       </div>
       <Footer/>
