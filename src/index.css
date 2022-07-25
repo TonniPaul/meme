@@ -16,7 +16,7 @@ body{
   height: 100vh;
 }
 .bodyyy{
-  height: 100vh;
+  position: relative;
   margin: 0 ;
 }
 nav{
@@ -53,7 +53,6 @@ nav > p{
 .image{
   max-width: 100%;
   border-radius: 3px;
-  min-height: 500px;
 }
 .meme{
   width: 90%;
@@ -107,7 +106,7 @@ footer{
   margin: 15px 0;
   padding: 0 5px;
   font-family: impact, sans-serif;
-  font-size: 2em;
+  font-size: 3em;
   text-transform: uppercase;
   color: white;
   letter-spacing: 1px;
@@ -154,12 +153,17 @@ footer{
     display: flex;
     flex-direction: column;
     grid-gap: 1rem;
+    padding: .5rem 1rem ;
   }
   .bodycont{
     width: 100%;
     padding: .5rem;
   }
-  .image{
-    height: 500px;
+  .btn{
+    font-size: 16px;
+    text-align: center;
+  }
+  .meme--text{
+    font-size: 16px;
   }
 }
