@@ -56,7 +56,7 @@ nav > p{
 }
 .meme{
   width: 90%;
-  margin: auto;
+  margin: auto auto 5em;
   position: relative;
 }
 input{
@@ -91,7 +91,7 @@ footer{
   color: #fff;
   text-align: center;
   padding: 1rem;
-  position: relative;
+  position: absolute;
   width: 100%;
   margin-top: 3rem;
   bottom: 0;
