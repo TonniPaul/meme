@@ -13,10 +13,8 @@
 body{
   background-color: #fff;
   font-family: 'Inter';
-  height: 100vh;
 }
 .bodyyy{
-  position: relative;
   margin: 0 ;
 }
 nav{
@@ -95,7 +93,6 @@ footer{
   width: 100%;
   margin-top: 3rem;
   bottom: 0;
-  transition: all 0.5s ease-in-out;
 }
 .meme--text {
   position: absolute;
