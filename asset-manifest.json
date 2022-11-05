@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tonnipaul.github.io/meme/static/css/main.4a3fa154.css",
-    "main.js": "/tonnipaul.github.io/meme/static/js/main.63e3090c.js",
-    "static/media/logo.svg": "/tonnipaul.github.io/meme/static/media/logo.c85922755c1248fe07c989304d3ba90a.svg",
-    "index.html": "/tonnipaul.github.io/meme/index.html",
-    "main.4a3fa154.css.map": "/tonnipaul.github.io/meme/static/css/main.4a3fa154.css.map",
-    "main.63e3090c.js.map": "/tonnipaul.github.io/meme/static/js/main.63e3090c.js.map"
+    "main.css": "/meme/static/css/main.4a3fa154.css",
+    "main.js": "/meme/static/js/main.c5e015ba.js",
+    "static/media/logo.svg": "/meme/static/media/logo.c85922755c1248fe07c989304d3ba90a.svg",
+    "index.html": "/meme/index.html",
+    "main.4a3fa154.css.map": "/meme/static/css/main.4a3fa154.css.map",
+    "main.c5e015ba.js.map": "/meme/static/js/main.c5e015ba.js.map"
   },
   "entrypoints": [
     "static/css/main.4a3fa154.css",
-    "static/js/main.63e3090c.js"
+    "static/js/main.c5e015ba.js"
   ]
 }
